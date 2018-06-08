@@ -1,0 +1,100 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+/* Primeira Pagina */ 
+
+
+#primeira{ 
+ 
+color: #000000;
+padding: 18%;
+margin: 0;
+display: flex;
+
+ }
+
+.primeira1 {
+	margin-left: 16%;
+	font-size: 45px;
+	display: flex;
+
+}
+
+#sim {
+	margin-left: 100px;
+	font-size: 50px;
+	padding: 10px;
+	background-color: #000000;
+	color: #E0FFFF;
+	
+
+}
+#nao {
+	margin-left: 950px;
+	font-size: 50px;
+	background-color: #000000;
+	color: #E0FFFF;
+	padding: 10px;
+	
+}
+
+/* cadastro */ 
+.cadastramento {
+	color: #FFFF00;
+	margin-left: 500px;
+
+}
+.cadastramento h1 {
+	text-align: center;
+	color: #FFFF00;
+	font-size: 50px;
+	padding:  50px;
+	margin-right: 700px;
+}
+/* cerveja */
+.cerva {
+	margin: 50px;
+
+}
+.cerva h3 {
+	margin-left: 150px;
+	font-weight: 900;
+	color: #E0FFFF;
+}
+
+.cerva2 {
+	margin-left: 50%;
+	margin-top: -20%;
+	margin-bottom: 50px;
+}
+.cerva2 h3 {
+	margin-left: 150px;
+	font-weight: 900;
+	color: #E0FFFF;
+}
+.cerva2 h2 {
+	margin-left: 100px;
+	font-weight: 900;
+	color: #E0FFFF;
+}
+
+#tipo {
+	color: #FFD700;
+	text-align: center;
+	font-size: 60px;
+	padding: 20px;
+	font-family:  Times New Roman, Times, serif;
+}
+
+/* contato */ 
+#contato {
+	margin-left: 550px;
+
+}
+#contato b {
+	color: #FFFF00;
+}
