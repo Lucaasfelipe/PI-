@@ -6,4 +6,13 @@
     }else{
         alert("Site permitido apenas para maiores de 18 anos");
     }
-}
+}					
+				function envia(){
+
+					Dados = " <p> Nome: </p>" + nome +
+				"<p> Email: </p>" + 
+				email + 
+				"<p> MSG: </p>" + mensagem + 
+
+				$("#conteudo").append(dados);
+			}
